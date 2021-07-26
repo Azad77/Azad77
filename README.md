@@ -13,10 +13,5 @@
 I am an Assistant Professor of **Remote Sensing** in the Department of Geography at the [Soran University](https://www.soran.edu.iq/). My research interests are remote sensing, Geographic Information Science (GIS), climate and environmental change. More specifically, I am interested in applying R and Python Programming, geospatial big data, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study climate, environmental and Land use land cover change. I am a strong advocate of open science. More information about my research and teaching can be found on my [personal website](https://azad77.github.io/AzadRasul/) and [my blog](https://smartrs.hashnode.dev/).
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Azad77's GitHub Stats" src="https://github-readme-stats.azad77.vercel.app/api?username=Azad77&show_icons=true&hide_border=true" />
-
-</details>
 
