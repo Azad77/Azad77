@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**Azad77/Azad77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Azad Rasul.
 
-Here are some ideas to get you started:
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/Azad77?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/Azad77Rasul)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1)
+[![Soran University Badge](https://en.wikipedia.org/wiki/File:Soran_University.jpg)](https://sites.google.com/a/soran.edu.iq/azad-usman-rasul/)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCpbWlHEqBSnJb6i4UemXQpA/featured)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/azad-rasul-1860abb1/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am an Assistant Professor of **Remote Sensing** in the Department of Geography at the [Soran University](https://www.soran.edu.iq/). My research interests are remote sensing, Geographic Information Science (GIS), climate and environmental change. More specifically, I am interested in applying R and Python Programming, geospatial big data, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study climate, environmental and Land use land cover change. I am a strong advocate of open science. More information about my research and teaching can be found on my [personal website](https://azad77.github.io/AzadRasul/) and [my blog](https://smartrs.hashnode.dev/).
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Azad77&show_icons=true&hide_border=true" />
+
+</details>
 -->
