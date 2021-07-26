@@ -4,7 +4,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Azad77Rasul?style=social)](https://twitter.com/Azad77Rasul)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1)
-[![Soran University Badge](https://github.com/Azad77/py4researchers/blob/main/data/soran_university_badge.png)](https://sites.google.com/a/soran.edu.iq/azad-usman-rasul/)
+[![Soran University Badge](https://github.com/Azad77/py4researchers/blob/main/data/soran_uni_small.jfif)](https://sites.google.com/a/soran.edu.iq/azad-usman-rasul/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCpbWlHEqBSnJb6i4UemXQpA/featured)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/azad-rasul-1860abb1/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
