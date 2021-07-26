@@ -16,7 +16,7 @@ I am an Assistant Professor of **Remote Sensing** in the Department of Geography
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Azad77&show_icons=true&hide_border=true" />
+  <img align="left" alt="Azad77's GitHub Stats" src="https://github-readme-stats.azad77.vercel.app/api?username=Azad77&show_icons=true&hide_border=true" />
 
 </details>
 
