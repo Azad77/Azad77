@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 ### I'm Azad Rasul.
 
 [![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/Azad77?tab=followers)
@@ -21,4 +19,4 @@ I am an Assistant Professor of **Remote Sensing** in the Department of Geography
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Azad77&show_icons=true&hide_border=true" />
 
 </details>
--->
+
