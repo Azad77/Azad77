@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Azad Rasul.
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/Azad77?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/Azad77Rasul)
+[![GitHub Badge](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Azad77Rasul?style=social)](https://twitter.com/Azad77Rasul)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1)
 [![Soran University Badge](https://en.wikipedia.org/wiki/File:Soran_University.jpg)](https://sites.google.com/a/soran.edu.iq/azad-usman-rasul/)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCpbWlHEqBSnJb6i4UemXQpA/featured)
