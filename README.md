@@ -10,7 +10,10 @@
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul)
 
 
-I am an Assistant Professor of **Remote Sensing** in the Department of Geography at the [Soran University](https://www.soran.edu.iq/). My research interests are remote sensing, Geographic Information Science (GIS), climate and environmental change. More specifically, I am interested in applying R and Python Programming, geospatial big data, and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study climate, environmental, and Land use land cover change. I am an open science advocate. More information about my research and teaching can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1) and [my blog](https://smartrs.hashnode.dev/).
+Driven by a passion for understanding global and local environmental issues, I bring over 16 years of experience in remote sensing, GIS, and programming to my research and teaching. I hold a PhD in Geography from University of Leicester and have published over 50 peer-reviewed articles in journals like The Lancet and The Lancet Infectious Diseases.
+
+At Soran University](https://www.soran.edu.iq/), I serve as an Assistant Professor, specializing in teaching and mentoring students in remote sensing and GIS. Additionally, I collaborate on research with the Global Burden of Disease at IHME (UW). I hold certifications in forest mapping and air pollution monitoring from NASA. Moreover, I instruct e-learning courses in Python and R programming. More information about my research and teaching can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1) and [my blog](https://smartrs.hashnode.dev/).
+
 
 ---
 
