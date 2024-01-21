@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### I'm Azad Rasul.
+<a href="https://github.com/Azad77?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Azad77?style=social" alt="GitHub Badge"></a>
+<a href="https://twitter.com/Azad77Rasul" target="_blank"><img src="https://img.shields.io/twitter/follow/Azad77Rasul?style=social" alt="Twitter Badge"></a>
+<!-- Repeat the pattern for other badges -->
 
 [![GitHub Badge](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers){:target="_blank"}
 [![Twitter Badge](https://img.shields.io/twitter/follow/Azad77Rasul?style=social)](https://twitter.com/Azad77Rasul){:target="_blank"}
