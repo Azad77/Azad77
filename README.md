@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I'm Azad Rasul.
+
 [![GitHub Badge](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers){:target="_blank"}
 [![Twitter Badge](https://img.shields.io/twitter/follow/Azad77Rasul?style=social)](https://twitter.com/Azad77Rasul){:target="_blank"}
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1){:target="_blank"}
@@ -9,7 +10,6 @@
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="68">](https://dev.to/azad77){:target="_blank"}
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html){:target="_blank"}
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul){:target="_blank"}
-
 
 Driven by a passion for understanding global and local environmental issues, I bring over 16 years of experience in remote sensing, GIS, and programming to my research and teaching. I hold a PhD in Geography from University of Leicester and have published over 50 peer-reviewed articles in journals like The Lancet and The Lancet Infectious Diseases.
 
