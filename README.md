@@ -18,7 +18,7 @@ At [Soran University](https://www.soran.edu.iq/), I serve as an Assistant Profes
 
 ---
 ### My Projects:
-Python package: [pylst](https://pypi.org/project/pylst/)
+Python package: <a href="https://pypi.org/project/pylst/" target="_blank">pylst</a>
 
 ---
 <!-- Display the latest 3 blog post titles as a Shields.io badge -->
