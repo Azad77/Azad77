@@ -20,6 +20,7 @@ At [Soran University](https://www.soran.edu.iq/), I serve as an Assistant Profes
 ### My Projects:
 Python package: <a href="https://pypi.org/project/pylst/" target="_blank">pylst</a>
 
+
 ---
 <!-- Display the latest 3 blog post titles as a Shields.io badge -->
 [![My Latest Blog Posts](https://img.shields.io/badge/dynamic/json?url=https://rss2json.com/api.json?rss_url=https%3A%2F%2Fsmartrs.uk%2Frss.xml&label=My%20Latest%20Blog%20Posts&query=$.items[:3].title&color=brightgreen)](https://smartrs.uk/)
