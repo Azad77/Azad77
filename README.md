@@ -25,6 +25,7 @@ At [Soran University](https://www.soran.edu.iq/), I serve as an Assistant Profes
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azad77&hide_langs_below=10) -->
 ---
-[![Latest Blog Posts](https://img.shields.io/endpoint?url=https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fsmartrs.uk%2Frss.xml)](https://smartrs.uk/)
+[![Latest Blog Posts](https://img.shields.io/endpoint?url=https://rss2json.com/api.json?rss_url=https%3A%2F%2Fsmartrs.uk%2Frss.xml)](https://smartrs.uk/)
+
 
 
