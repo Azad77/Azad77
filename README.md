@@ -9,8 +9,8 @@
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="82">](https://smartrs.uk/)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="68">](https://dev.to/azad77)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
-[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul)
-
+<!---[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul)
+-->
 
 Driven by a passion for understanding global and local environmental issues, I bring over 16 years of experience in remote sensing, GIS, and programming to my research and teaching. I hold a PhD in Geography from University of Leicester and have published over 50 peer-reviewed articles in journals like The Lancet and The Lancet Infectious Diseases.
 
