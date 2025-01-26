@@ -6,7 +6,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCpbWlHEqBSnJb6i4UemXQpA/featured)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/azad-rasul/)
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="82">](https://smartrs.uk/)
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="82">](https://smartrs.hashnode.dev/)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="68">](https://dev.to/azad77)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
 <!---[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul)
@@ -24,7 +24,7 @@ Python package: <a href="https://pypi.org/project/pylst/" target="_blank" rel="n
 
 ---
 <!-- Display the latest 3 blog post titles as a Shields.io badge -->
-[![My Latest Blog Posts](https://img.shields.io/badge/dynamic/json?url=https://rss2json.com/api.json?rss_url=https%3A%2F%2Fsmartrs.uk%2Frss.xml&label=My%20Latest%20Blog%20Posts&query=$.items[:3].title&color=brightgreen)](https://smartrs.uk/)
+[![My Latest Blog Posts](https://img.shields.io/badge/dynamic/json?url=https://rss2json.com/api.json?rss_url=https%3A%2F%2Fsmartrs.hashnode.dev%2Frss.xml&label=My%20Latest%20Blog%20Posts&query=$.items[:3].title&color=brightgreen)](https://smartrs.hashnode.dev/)
 
 ---
 
