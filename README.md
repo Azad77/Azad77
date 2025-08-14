@@ -14,7 +14,7 @@
 
 Driven by a passion for understanding global and local environmental issues, I bring over 17 years of experience in remote sensing, GIS, and programming to my research and teaching. I hold a PhD in Geography from University of Leicester and have published over 70 peer-reviewed articles in journals like The Lancet and The Lancet Infectious Diseases.
 
-At [Soran University](https://www.soran.edu.iq/), I serve as a Senior Assistant Professor, specializing in teaching and mentoring students in remote sensing and GIS. Additionally, I collaborate on research with the Global Burden of Disease at IHME (UW). I hold certifications in forest mapping and air pollution monitoring from NASA. Moreover, I instruct e-learning courses in Python and R programming. More information about my research and teaching can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1) and [my blog](https://smartrs.hashnode.dev/).
+At [Soran University](https://www.soran.edu.iq/), I serve as a Senior Assistant Professor, specializing in teaching and mentoring students in remote sensing and GIS. Additionally, I collaborate on research with the Global Burden of Disease at IHME (UW). I hold certifications in forest mapping and air pollution monitoring from NASA. Moreover, I instruct e-learning courses in AI, Python and R programming. More information about my research and teaching can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1) and [my blog](https://smartrs.hashnode.dev/).
 
 ---
 
