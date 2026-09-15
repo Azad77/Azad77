@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I'm Azad Rasul.
-
 [![GitHub Badge](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Azad77Rasul?style=social)](https://twitter.com/Azad77Rasul)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1)
@@ -8,8 +7,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/azad-rasul/)
 [<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="82">](https://smartrs.hashnode.dev/)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="68">](https://dev.to/azad77)
+[![Flaavo Badge](https://img.shields.io/badge/Flaavo.app-F57C00?logoColor=white)](https://www.flaavo.app/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
-<!---[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/AzadRasul)
 -->
 
 Passionate about tackling global and local environmental challenges, I bring over 17 years of expertise in remote sensing, GIS, and programming to my research and teaching. Recognized in the top 2% of scientists in the 2025 Stanford/Elsevier Ranking, particularly in General & Internal Medicine, I hold a PhD in Geography from the University of Leicester and have authored over 80 peer-reviewed articles in journals like The Lancet and The Lancet Infectious Diseases.
