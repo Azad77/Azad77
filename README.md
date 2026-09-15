@@ -1,39 +1,79 @@
-### Hi there 👋
-### I'm Azad Rasul.
-[![GitHub Badge](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/Azad77Rasul?style=social)](https://twitter.com/Azad77Rasul)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1)
-[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCpbWlHEqBSnJb6i4UemXQpA/featured)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/azad-rasul/)
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="82">](https://smartrs.hashnode.dev/)
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="68">](https://dev.to/azad77)
-[![Flaavo Badge](https://img.shields.io/badge/Flaavo.app-F57C00?logoColor=white)](https://www.flaavo.app/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
--->
+# Hi, I'm Azad Rasul 👋
 
-Passionate about tackling global and local environmental challenges, I bring over 17 years of expertise in remote sensing, GIS, and programming to my research and teaching. Recognized in the top 2% of scientists in the 2025 Stanford/Elsevier Ranking, particularly in General & Internal Medicine, I hold a PhD in Geography from the University of Leicester and have authored over 80 peer-reviewed articles in journals like The Lancet and The Lancet Infectious Diseases.
+### Remote Sensing | GIS | Geospatial AI | Earth Observation | Python
 
-At [Soran University](https://www.soran.edu.iq/), I serve as a Senior Assistant Professor, specializing in teaching and mentoring students in remote sensing and GIS. Additionally, I collaborate on research with the Global Burden of Disease at IHME (UW). I hold certifications in forest mapping and air pollution monitoring from NASA. Moreover, I instruct e-learning courses in AI, Python and R programming. More information about my research and teaching can be found on my [Google Scholar Profile](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en&authuser=1) and [my blog](https://smartrs.hashnode.dev/).
+[![GitHub](https://img.shields.io/github/followers/Azad77?style=social)](https://github.com/Azad77?tab=followers)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=E6b98RcAAAAJ&hl=en)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/UCpbWlHEqBSnJb6i4UemXQpA/featured)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/azad-rasul/)
+[![Flaavo](https://img.shields.io/badge/Flaavo.app-F57C00)](https://www.flaavo.app/)
+[![CV](https://img.shields.io/badge/My-CV-critical)](https://azad77.github.io/AzadRasul/Resume.html)
 
 ---
 
-### My Projects:
-Python package: <a href="https://pypi.org/project/pylst/" target="_blank" rel="noopener noreferrer">pylst</a>
+## 👨‍🔬 About Me
 
+I am an academic and researcher specializing in **Remote Sensing, GIS, Geospatial AI, Earth Observation, and scientific programming**.
+
+I hold a **PhD in Geography (Remote Sensing)** from the University of Leicester and have more than 17 years of experience in GIS, remote sensing, research, programming, and university teaching.
+
+My research combines satellite observations, GIS, machine learning, deep learning, and environmental modelling to investigate environmental and climate-related challenges.
+
+I have contributed to international collaborative research, including **Global Burden of Disease (GBD)** studies, with research published in journals including *The Lancet* and *The Lancet Infectious Diseases*.
+
+My main research interests include:
+
+- 🛰️ Remote Sensing & Earth Observation
+- 🤖 Geospatial AI, Machine Learning & Deep Learning
+- 🌡️ Climate & Environmental Monitoring
+- 🌱 Vegetation & Drought Monitoring
+- 🔥 Burned Areas & Land-Cover Change
+- 💧 Hydrology & Water Resources
+- 🏙️ Urban Growth & Land Surface Temperature
+- 🐍 Geospatial Programming & Automation
 
 ---
-<!-- Display the latest 3 blog post titles as a Shields.io badge -->
-[![My Latest Blog Posts](https://img.shields.io/badge/dynamic/json?url=https://rss2json.com/api.json?rss_url=https%3A%2F%2Fsmartrs.hashnode.dev%2Frss.xml&label=My%20Latest%20Blog%20Posts&query=$.items[:3].title&color=brightgreen)](https://smartrs.hashnode.dev/)
+
+## 🚀 Featured Projects
+
+### 🍳 [Flaavo](https://www.flaavo.app/)
+
+A cooking and recipe platform designed to help people **discover recipes, share food, and find meals based on ingredients they already have**.
+
+🌐 **Live:** [flaavo.app](https://www.flaavo.app/)
 
 ---
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Azad77&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azad77&langs_count=3&hide=javascript,go,html,css,tex)
+### 🌡️ [pylst](https://pypi.org/project/pylst/)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azad77&hide_langs_below=10) -->
+A Python package for geospatial and **Land Surface Temperature (LST)** applications.
 
+📦 **PyPI:** [pylst](https://pypi.org/project/pylst/)
 
+---
 
+## 🛠️ Technical Skills
 
+### 🛰️ Geospatial & Earth Observation
+`Google Earth Engine` · `ArcGIS` · `ArcPy` · `QGIS` · `PyQGIS` · `ENVI`
 
+### 💻 Programming
+`Python` · `R` · `JavaScript`
 
+### 🤖 AI & Machine Learning
+`TensorFlow` · `PyTorch` · `Scikit-learn` · `Deep Learning` · `Time-Series Forecasting`
+
+### 🌍 Satellite & Climate Data
+`Sentinel-2` · `Landsat` · `MODIS` · `ERA5` · `TerraClimate` · `GRACE`
+
+---
+
+## 🔬 Research Areas
+
+```text
+Remote Sensing        ████████████████████
+GIS & Geospatial      ████████████████████
+Geospatial AI         ███████████████████
+Climate Analysis      ██████████████████
+Earth Observation     ███████████████████
+Python Automation     ██████████████████
